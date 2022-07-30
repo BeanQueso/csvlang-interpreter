@@ -1,0 +1,4 @@
+let,my_name,dominic
+let,my_age,45.69
+let,my_location,hungary
+print,{my_name}+ likes beans
